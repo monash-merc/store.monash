@@ -1,5 +1,5 @@
-Store.Monash Account Migration
-==============================
+Store.Monash Account Migration to Google Account
+================================================
 
 There are now two ways to log in to Store.Monash. You can continue to log in
 with your Monash username and password. However you are encouraged to try the
