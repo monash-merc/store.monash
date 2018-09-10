@@ -11,7 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   account_migration
+   account_migration_aaf
+   account_migration_google
 
 
 Indices and tables
