@@ -3,22 +3,22 @@
 Store.Monash Account Migration to Google Account
 ================================================
 
-There are now multiple ways to log in to Store.Monash. You can continue to log in
-with your Monash username and password. However you are encouraged to try the
-new Australian Access Federation login method:
+Users who cannot use Australian Access Federation(AAF) because their organization
+is not an AAF subscriber can use Google Authentication. This will need an
+additional admin approval and will be restricted to specific use cases:
 
-  .. image:: images/store.monash-login.png
+  .. image:: images/login-via-google.PNG
 
 Before trying the new login method, you should log in with the Username / Password
 form and verify that you can see your data:
 
   .. image:: images/before-migration.png
 
-The first time you log in with the Australian Access Federation, you won't be able
-to see your data, but you will see a Migrate My Account link which will allow
-you to make all of your data accessible when using the new login method.
+The first time you log in with the Google account, you won't be able
+to see your data. Your account will require administrator approval. At this stage Store.Monash administrator
+have been notified about this and your account approval may take 1-2 business days.
 
-  .. image:: images/first-aaf-login.png
+  .. image:: images/login-google-approval-message.png
 
 Clicking on the Migrate My Account link will take you to a new Migrate My Account
 page with a Username / Password form. Before you can make your data available to
