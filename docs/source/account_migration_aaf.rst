@@ -1,11 +1,13 @@
+.. _aaf-migration-label:
+
 Store.Monash Account Migration to Australian Access Federation Account
 ======================================================================
 
-There are now two ways to log in to Store.Monash. You can continue to log in
+There are now multiple ways to log in to Store.Monash. You can continue to log in
 with your Monash username and password. However you are encouraged to try the
 new Australian Access Federation login method:
 
-  .. image:: images/two-ways-to-login.png
+  .. image:: images/store.monash-login.png
 
 Before trying the new login method, you should log in with the Username / Password
 form and verify that you can see your data:

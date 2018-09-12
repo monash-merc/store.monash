@@ -1,11 +1,13 @@
+.. _google-migration-label:
+
 Store.Monash Account Migration to Google Account
 ================================================
 
-There are now two ways to log in to Store.Monash. You can continue to log in
+There are now multiple ways to log in to Store.Monash. You can continue to log in
 with your Monash username and password. However you are encouraged to try the
 new Australian Access Federation login method:
 
-  .. image:: images/two-ways-to-login.png
+  .. image:: images/store.monash-login.png
 
 Before trying the new login method, you should log in with the Username / Password
 form and verify that you can see your data:
@@ -28,7 +30,7 @@ entering your Monash username and password:
 After verifying your Monash username and password, you will see a Migrate button
 allowing you to make your data available to your new account:
 
-  .. image:: images/migrate-account.png
+  .. image:: images/migrate-account-google.png
 
 After your account has been migrated, you should see your old data available
 when you log in using the new method:
