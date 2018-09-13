@@ -7,7 +7,7 @@ Users who cannot use Australian Access Federation(AAF) because their organizatio
 is not an AAF subscriber can use Google Authentication. This will need an
 additional admin approval and will be restricted to specific use cases:
 
-  .. image:: images/login-via-google.PNG
+  .. image:: images/login-via-google.png
 
 Before trying the new login method, you should log in with the Username / Password
 form and verify that you can see your data:
@@ -23,7 +23,7 @@ have been notified about this and your account approval may take 1-2 business da
 Once your account has been approved, you can use the Migrate My Account
 menu item to make your data available to your new login method:
 
-  .. image:: images/migrate-my-account-menu-item.png
+  .. image:: images/migrate-my-account-menu-item-google.png
 
 Clicking on the Migrate My Account menu item will take you to a new Migrate My Account
 page with a Username / Password form. Before you can make your data available to
