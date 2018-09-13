@@ -20,7 +20,12 @@ have been notified about this and your account approval may take 1-2 business da
 
   .. image:: images/login-google-approval-message.png
 
-Clicking on the Migrate My Account link will take you to a new Migrate My Account
+Once your account has been approved, you can use the Migrate My Account
+menu item to make your data available to your new login method:
+
+  .. image:: images/migrate-my-account-menu-item.png
+
+Clicking on the Migrate My Account menu item will take you to a new Migrate My Account
 page with a Username / Password form. Before you can make your data available to
 your new login method, you need to verify that you can access your old account by
 entering your Monash username and password:

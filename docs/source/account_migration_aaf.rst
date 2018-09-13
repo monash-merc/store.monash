@@ -15,10 +15,15 @@ form and verify that you can see your data:
   .. image:: images/before-migration.png
 
 The first time you log in with the Australian Access Federation, you won't be able
-to see your data, but you will see a Migrate My Account link which will allow
+to see your data, but you should see a Migrate My Account link which will allow
 you to make all of your data accessible when using the new login method.
 
   .. image:: images/first-aaf-login.png
+
+If you don't see the Migrate My Account link shown above, you can still access
+the account migration feature as shown below:
+
+  .. image:: images/migrate-my-account-menu-item.png
 
 Clicking on the Migrate My Account link will take you to a new Migrate My Account
 page with a Username / Password form. Before you can make your data available to
