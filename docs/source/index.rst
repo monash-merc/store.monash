@@ -20,6 +20,7 @@ Contents:
    aaf
    account_migration_aaf
    account_migration_google
+   hsm_app
 
 Indices and tables
 ==================
